@@ -7,13 +7,7 @@
 
 # Installation ⬇️:
 ```
-pkg update
-pkg upgrade
-pkg install python
-pkg install git
-git clone https://github.com/tinbigz/VHtoolfb.git
-cd cd VHtoolfb
-python vhtoolfb.py
+pkg install python ; pkg install git ; apt update ; apt upgrade ; apt install python ; apt install git ; git clone https://github.com/tinbigz/VHtoolfb.git ; cd VHtoolfb ; pip install requests bs4 mechanize features ; python vhtoolfb.py
 ```
 
 # Tested On⬇️:
